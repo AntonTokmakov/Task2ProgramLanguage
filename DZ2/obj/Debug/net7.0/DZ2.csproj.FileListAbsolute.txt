@@ -1,0 +1,15 @@
+C:\Users\Anton\Desktop\GeekBrains Домашка\Знакомство с языками программирования ДЗ_2\DZ2\bin\Debug\net7.0\DZ2.exe
+C:\Users\Anton\Desktop\GeekBrains Домашка\Знакомство с языками программирования ДЗ_2\DZ2\bin\Debug\net7.0\DZ2.deps.json
+C:\Users\Anton\Desktop\GeekBrains Домашка\Знакомство с языками программирования ДЗ_2\DZ2\bin\Debug\net7.0\DZ2.runtimeconfig.json
+C:\Users\Anton\Desktop\GeekBrains Домашка\Знакомство с языками программирования ДЗ_2\DZ2\bin\Debug\net7.0\DZ2.dll
+C:\Users\Anton\Desktop\GeekBrains Домашка\Знакомство с языками программирования ДЗ_2\DZ2\bin\Debug\net7.0\DZ2.pdb
+C:\Users\Anton\Desktop\GeekBrains Домашка\Знакомство с языками программирования ДЗ_2\DZ2\obj\Debug\net7.0\DZ2.csproj.AssemblyReference.cache
+C:\Users\Anton\Desktop\GeekBrains Домашка\Знакомство с языками программирования ДЗ_2\DZ2\obj\Debug\net7.0\DZ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\Desktop\GeekBrains Домашка\Знакомство с языками программирования ДЗ_2\DZ2\obj\Debug\net7.0\DZ2.AssemblyInfoInputs.cache
+C:\Users\Anton\Desktop\GeekBrains Домашка\Знакомство с языками программирования ДЗ_2\DZ2\obj\Debug\net7.0\DZ2.AssemblyInfo.cs
+C:\Users\Anton\Desktop\GeekBrains Домашка\Знакомство с языками программирования ДЗ_2\DZ2\obj\Debug\net7.0\DZ2.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Desktop\GeekBrains Домашка\Знакомство с языками программирования ДЗ_2\DZ2\obj\Debug\net7.0\DZ2.dll
+C:\Users\Anton\Desktop\GeekBrains Домашка\Знакомство с языками программирования ДЗ_2\DZ2\obj\Debug\net7.0\refint\DZ2.dll
+C:\Users\Anton\Desktop\GeekBrains Домашка\Знакомство с языками программирования ДЗ_2\DZ2\obj\Debug\net7.0\DZ2.pdb
+C:\Users\Anton\Desktop\GeekBrains Домашка\Знакомство с языками программирования ДЗ_2\DZ2\obj\Debug\net7.0\DZ2.genruntimeconfig.cache
+C:\Users\Anton\Desktop\GeekBrains Домашка\Знакомство с языками программирования ДЗ_2\DZ2\obj\Debug\net7.0\ref\DZ2.dll
